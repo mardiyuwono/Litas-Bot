@@ -21,8 +21,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Zlkcyber/litasBot.git
-    cd litasBot
+    git clone https://github.com/mardiyuwono/Litas-Bot.git
+    cd Litas-Bot
     ```
 
 2. Install the required dependencies:
